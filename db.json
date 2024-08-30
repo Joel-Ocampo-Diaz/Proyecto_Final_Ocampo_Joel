@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nombre": "Electrónica",
+        "descripcion": "Productos electrónicos como teléfonos, laptops, etc."
+    },
+    {
+        "id": 2,
+        "nombre": "Ropa",
+        "descripcion": "Ropa para hombre, mujer y niños"
+    },
+    {
+        "id": 3,
+        "nombre": "Alimentos",
+        "descripcion": "Productos alimenticios y bebidas"
+    },
+    {
+        "id": 4,
+        "nombre": "Deportes",
+        "descripcion": "Equipos y accesorios deportivos"
+    }
+]
